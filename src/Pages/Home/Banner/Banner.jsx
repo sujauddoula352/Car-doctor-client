@@ -12,7 +12,7 @@ const Banner = () => {
                 <img
                     src={img1}
                     className="w-full rounded-xl " />
-                <div className="absolute flex items-center h-full top-0  bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)]">
+                <div className="absolute rounded-xl flex items-center h-full top-0  bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)]">
                     <div className="text-white space-y-7 ml-10 w-1/2">
                         <h2 className="font-bold text-6xl ">Affordable Price For Car Servicing</h2>
                         <p>There are many variations of passages of  available, but the majority have suffered alteration in some form</p>
