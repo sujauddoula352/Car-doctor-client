@@ -1,8 +1,8 @@
 import person from "../../../../public/assets/images/about_us/person.jpg";
-import parts from "../../../../public/assets/images/about_us/parts.jpg"
+import parts from "../../../../public/assets/images/about_us/parts.jpg";
 const About = () => {
     return (
-        <div className="hero  py-5 my-40">
+        <div className="hero  py-5 my-24">
             <div className="hero-content flex-col lg:flex-row">
                <div className="lg:w-1/2 relative">
                <img
